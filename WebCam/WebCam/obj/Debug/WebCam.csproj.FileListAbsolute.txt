@@ -1,0 +1,17 @@
+D:\FILE\REPO\WebCam\WebCam\bin\Debug\WebCam.exe.config
+D:\FILE\REPO\WebCam\WebCam\bin\Debug\WebCam.exe
+D:\FILE\REPO\WebCam\WebCam\bin\Debug\WebCam.pdb
+D:\FILE\REPO\WebCam\WebCam\obj\Debug\WebCam.csproj.AssemblyReference.cache
+D:\FILE\REPO\WebCam\WebCam\obj\Debug\WebCam.Form1.resources
+D:\FILE\REPO\WebCam\WebCam\obj\Debug\WebCam.Properties.Resources.resources
+D:\FILE\REPO\WebCam\WebCam\obj\Debug\WebCam.csproj.GenerateResource.cache
+D:\FILE\REPO\WebCam\WebCam\obj\Debug\WebCam.csproj.CoreCompileInputs.cache
+D:\FILE\REPO\WebCam\WebCam\obj\Debug\WebCam.exe
+D:\FILE\REPO\WebCam\WebCam\obj\Debug\WebCam.pdb
+D:\FILE\REPO\WebCam\WebCam\bin\Debug\AForge.dll
+D:\FILE\REPO\WebCam\WebCam\bin\Debug\AForge.Video.DirectShow.dll
+D:\FILE\REPO\WebCam\WebCam\bin\Debug\AForge.Video.dll
+D:\FILE\REPO\WebCam\WebCam\bin\Debug\AForge.xml
+D:\FILE\REPO\WebCam\WebCam\bin\Debug\AForge.Video.xml
+D:\FILE\REPO\WebCam\WebCam\bin\Debug\AForge.Video.DirectShow.xml
+D:\FILE\REPO\WebCam\WebCam\obj\Debug\WebCam.csproj.CopyComplete
